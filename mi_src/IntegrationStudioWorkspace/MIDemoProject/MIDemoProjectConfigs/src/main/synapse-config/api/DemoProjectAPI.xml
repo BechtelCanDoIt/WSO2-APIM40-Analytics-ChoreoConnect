@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<api context="/demo" name="DemoProjectAPI" version="1.0.0" version-type="context" xmlns="http://ws.apache.org/ns/synapse">
+    <resource methods="GET" uri-template="/{type}">
+        <inSequence>
+            <switch source="$ctx:uri.var.type">
+                <case regex="HelloWorld">
+                    <sequence key="HelloWorldSeq"/>
+                </case>
+                <case regex="Speed50">
+                    <sequence key="SpeedTest50Seq"/>
+                </case>
+                <case regex="Speed1024">
+                    <sequence key="SpeedTest1024Seq"/>
+                </case>
+                <case regex="Speed10240">
+                    <sequence key="SpeedTest10240Seq"/>
+                </case>
+                <default>
+                    <sequence key="HelloWorldSeq"/>
+                </default>
+            </switch>
+            <loopback/>
+        </inSequence>
+        <outSequence>
+            <respond/>
+        </outSequence>
+        <faultSequence/>
+    </resource>
+</api>

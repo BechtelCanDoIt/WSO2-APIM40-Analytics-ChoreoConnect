@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sequence name="SpeedTest50Seq" trace="disable" xmlns="http://ws.apache.org/ns/synapse">
+    <payloadFactory media-type="json">
+        <format>{"Text":"yEKTmq1FhiIjE5k7OAnapUD0ceOJyW1dgTvWyhrzTn1N7WhU3a"}</format>
+        <args/>
+    </payloadFactory>
+    <respond/>
+</sequence>
