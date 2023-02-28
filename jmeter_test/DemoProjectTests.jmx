@@ -51,7 +51,7 @@
             <collectionProp name="HeaderManager.headers">
               <elementProp name="Authorization" elementType="Header">
                 <stringProp name="Header.name">Authorization</stringProp>
-                <stringProp name="Header.value">Bearer eyJ4NXQiOiJNell4TW1Ga09HWXdNV0kwWldObU5EY3hOR1l3WW1NNFpUQTNNV0kyTkRBelpHUXpOR00wWkdSbE5qSmtPREZrWkRSaU9URmtNV0ZoTXpVMlpHVmxOZyIsImtpZCI6Ik16WXhNbUZrT0dZd01XSTBaV05tTkRjeE5HWXdZbU00WlRBM01XSTJOREF6WkdRek5HTTBaR1JsTmpKa09ERmtaRFJpT1RGa01XRmhNelUyWkdWbE5nX1JTMjU2IiwiYWxnIjoiUlMyNTYifQ.eyJzdWIiOiJhZG1pbiIsImF1dCI6IkFQUExJQ0FUSU9OIiwiYXVkIjoiWFpDSVVtUHNSb0t4ZWpTeTZ6N2Q0S0FGcWVVYSIsIm5iZiI6MTY3NjY1NzczNywiYXpwIjoiWFpDSVVtUHNSb0t4ZWpTeTZ6N2Q0S0FGcWVVYSIsInNjb3BlIjoiZGVmYXVsdCIsImlzcyI6Imh0dHBzOlwvXC9sb2NhbGhvc3Q6OTQ0M1wvb2F1dGgyXC90b2tlbiIsImV4cCI6MTY3NzE4MzMzNywiaWF0IjoxNjc2NjU3NzM3LCJqdGkiOiJhOWQ1Yjg3Ny05YWRjLTRhY2MtODA5Yi1kZDE3NzJmNWU0N2UifQ.YoMcRb2yQCBB4SAJ4kAEThfiAhuqzIPImsbpG42PCAPcU5msxbzcbiDbtrSO4vh4YwRXIFutATn5X6qZb8UxF-tOQUUYjgVIRIcGoScKW3qextfYd1_Yowz5t0bVat6tRfXq8gy3raCSZOgwFXTBJGACHVY4OdDmliEqzf4R4SKX_rNr-8jgIrCnWJG_3rb0-2V8m9kcAQPrMUyDwpwDVfA9gPSkS8b7VMf0PW8KaWlL4BlVe8H2yjbHcOatZuE1KrMFGeFTWG3DPQZON5RPWVvGRKVpdqzhFe_Oq6IXZlM8horQcAE54Bjvb8jZodYmMDjtSBin3GrCYLE42_vUdw</stringProp>
+                <stringProp name="Header.value">Bearer eyJ4NXQiOiJNell4TW1G[REDACTED]</stringProp>
               </elementProp>
             </collectionProp>
             <stringProp name="TestPlan.comments">Created from cURL on 2023-02-17T12:21:11.697</stringProp>
@@ -98,7 +98,7 @@
             <collectionProp name="HeaderManager.headers">
               <elementProp name="Authorization" elementType="Header">
                 <stringProp name="Header.name">Authorization</stringProp>
-                <stringProp name="Header.value">Bearer eyJ4NXQiOiJNell4TW1Ga09HWXdNV0kwWldObU5EY3hOR1l3WW1NNFpUQTNNV0kyTkRBelpHUXpOR00wWkdSbE5qSmtPREZrWkRSaU9URmtNV0ZoTXpVMlpHVmxOZyIsImtpZCI6Ik16WXhNbUZrT0dZd01XSTBaV05tTkRjeE5HWXdZbU00WlRBM01XSTJOREF6WkdRek5HTTBaR1JsTmpKa09ERmtaRFJpT1RGa01XRmhNelUyWkdWbE5nX1JTMjU2IiwiYWxnIjoiUlMyNTYifQ.eyJzdWIiOiJhZG1pbiIsImF1dCI6IkFQUExJQ0FUSU9OIiwiYXVkIjoiWFpDSVVtUHNSb0t4ZWpTeTZ6N2Q0S0FGcWVVYSIsIm5iZiI6MTY3NjY1NzczNywiYXpwIjoiWFpDSVVtUHNSb0t4ZWpTeTZ6N2Q0S0FGcWVVYSIsInNjb3BlIjoiZGVmYXVsdCIsImlzcyI6Imh0dHBzOlwvXC9sb2NhbGhvc3Q6OTQ0M1wvb2F1dGgyXC90b2tlbiIsImV4cCI6MTY3NzE4MzMzNywiaWF0IjoxNjc2NjU3NzM3LCJqdGkiOiJhOWQ1Yjg3Ny05YWRjLTRhY2MtODA5Yi1kZDE3NzJmNWU0N2UifQ.YoMcRb2yQCBB4SAJ4kAEThfiAhuqzIPImsbpG42PCAPcU5msxbzcbiDbtrSO4vh4YwRXIFutATn5X6qZb8UxF-tOQUUYjgVIRIcGoScKW3qextfYd1_Yowz5t0bVat6tRfXq8gy3raCSZOgwFXTBJGACHVY4OdDmliEqzf4R4SKX_rNr-8jgIrCnWJG_3rb0-2V8m9kcAQPrMUyDwpwDVfA9gPSkS8b7VMf0PW8KaWlL4BlVe8H2yjbHcOatZuE1KrMFGeFTWG3DPQZON5RPWVvGRKVpdqzhFe_Oq6IXZlM8horQcAE54Bjvb8jZodYmMDjtSBin3GrCYLE42_vUdw</stringProp>
+                <stringProp name="Header.value">Bearer eyJ4NXQiOiJNell4TW1G[REDACTED]</stringProp>
               </elementProp>
             </collectionProp>
             <stringProp name="TestPlan.comments">Created from cURL on 2023-02-17T12:27:37.744</stringProp>
@@ -130,7 +130,7 @@
             <collectionProp name="HeaderManager.headers">
               <elementProp name="Authorization" elementType="Header">
                 <stringProp name="Header.name">Authorization</stringProp>
-                <stringProp name="Header.value">Bearer eyJ4NXQiOiJNell4TW1Ga09HWXdNV0kwWldObU5EY3hOR1l3WW1NNFpUQTNNV0kyTkRBelpHUXpOR00wWkdSbE5qSmtPREZrWkRSaU9URmtNV0ZoTXpVMlpHVmxOZyIsImtpZCI6Ik16WXhNbUZrT0dZd01XSTBaV05tTkRjeE5HWXdZbU00WlRBM01XSTJOREF6WkdRek5HTTBaR1JsTmpKa09ERmtaRFJpT1RGa01XRmhNelUyWkdWbE5nX1JTMjU2IiwiYWxnIjoiUlMyNTYifQ.eyJzdWIiOiJhZG1pbiIsImF1dCI6IkFQUExJQ0FUSU9OIiwiYXVkIjoiWFpDSVVtUHNSb0t4ZWpTeTZ6N2Q0S0FGcWVVYSIsIm5iZiI6MTY3NjY1NzczNywiYXpwIjoiWFpDSVVtUHNSb0t4ZWpTeTZ6N2Q0S0FGcWVVYSIsInNjb3BlIjoiZGVmYXVsdCIsImlzcyI6Imh0dHBzOlwvXC9sb2NhbGhvc3Q6OTQ0M1wvb2F1dGgyXC90b2tlbiIsImV4cCI6MTY3NzE4MzMzNywiaWF0IjoxNjc2NjU3NzM3LCJqdGkiOiJhOWQ1Yjg3Ny05YWRjLTRhY2MtODA5Yi1kZDE3NzJmNWU0N2UifQ.YoMcRb2yQCBB4SAJ4kAEThfiAhuqzIPImsbpG42PCAPcU5msxbzcbiDbtrSO4vh4YwRXIFutATn5X6qZb8UxF-tOQUUYjgVIRIcGoScKW3qextfYd1_Yowz5t0bVat6tRfXq8gy3raCSZOgwFXTBJGACHVY4OdDmliEqzf4R4SKX_rNr-8jgIrCnWJG_3rb0-2V8m9kcAQPrMUyDwpwDVfA9gPSkS8b7VMf0PW8KaWlL4BlVe8H2yjbHcOatZuE1KrMFGeFTWG3DPQZON5RPWVvGRKVpdqzhFe_Oq6IXZlM8horQcAE54Bjvb8jZodYmMDjtSBin3GrCYLE42_vUdw</stringProp>
+                <stringProp name="Header.value">Bearer eyJ4NXQiOiJNell4TW1Ga[REDACTED]</stringProp>
               </elementProp>
             </collectionProp>
             <stringProp name="TestPlan.comments">Created from cURL on 2023-02-17T12:27:37.744</stringProp>
@@ -162,7 +162,7 @@
             <collectionProp name="HeaderManager.headers">
               <elementProp name="Authorization" elementType="Header">
                 <stringProp name="Header.name">Authorization</stringProp>
-                <stringProp name="Header.value">Bearer eyJ4NXQiOiJNell4TW1Ga09HWXdNV0kwWldObU5EY3hOR1l3WW1NNFpUQTNNV0kyTkRBelpHUXpOR00wWkdSbE5qSmtPREZrWkRSaU9URmtNV0ZoTXpVMlpHVmxOZyIsImtpZCI6Ik16WXhNbUZrT0dZd01XSTBaV05tTkRjeE5HWXdZbU00WlRBM01XSTJOREF6WkdRek5HTTBaR1JsTmpKa09ERmtaRFJpT1RGa01XRmhNelUyWkdWbE5nX1JTMjU2IiwiYWxnIjoiUlMyNTYifQ.eyJzdWIiOiJhZG1pbiIsImF1dCI6IkFQUExJQ0FUSU9OIiwiYXVkIjoiWFpDSVVtUHNSb0t4ZWpTeTZ6N2Q0S0FGcWVVYSIsIm5iZiI6MTY3NjY1NzczNywiYXpwIjoiWFpDSVVtUHNSb0t4ZWpTeTZ6N2Q0S0FGcWVVYSIsInNjb3BlIjoiZGVmYXVsdCIsImlzcyI6Imh0dHBzOlwvXC9sb2NhbGhvc3Q6OTQ0M1wvb2F1dGgyXC90b2tlbiIsImV4cCI6MTY3NzE4MzMzNywiaWF0IjoxNjc2NjU3NzM3LCJqdGkiOiJhOWQ1Yjg3Ny05YWRjLTRhY2MtODA5Yi1kZDE3NzJmNWU0N2UifQ.YoMcRb2yQCBB4SAJ4kAEThfiAhuqzIPImsbpG42PCAPcU5msxbzcbiDbtrSO4vh4YwRXIFutATn5X6qZb8UxF-tOQUUYjgVIRIcGoScKW3qextfYd1_Yowz5t0bVat6tRfXq8gy3raCSZOgwFXTBJGACHVY4OdDmliEqzf4R4SKX_rNr-8jgIrCnWJG_3rb0-2V8m9kcAQPrMUyDwpwDVfA9gPSkS8b7VMf0PW8KaWlL4BlVe8H2yjbHcOatZuE1KrMFGeFTWG3DPQZON5RPWVvGRKVpdqzhFe_Oq6IXZlM8horQcAE54Bjvb8jZodYmMDjtSBin3GrCYLE42_vUdw</stringProp>
+                <stringProp name="Header.value">Bearer eyJ4NXQiOiJNell4TW1Ga[REDACTED]</stringProp>
               </elementProp>
             </collectionProp>
             <stringProp name="TestPlan.comments">Created from cURL on 2023-02-17T12:27:37.744</stringProp>
